@@ -1,0 +1,43 @@
+# Proyecto Big Data & Data Intelligence
+****
+
+## CRAFTY
+  
+  
+En esta era de innovación, intercambio cultural y social, nos encontramos sumergidos en un mundo de personas que apuestan por ser diferentes y despertar la creatividad e imaginación. La producción de cerveza artesanal cada vez toma mas auge y mas seguidores.
+  
+    
+    
+### Objetivo
+
+Crear un servicio que proporcione información interactiva sobre los sitios de producción y venta de cerveza artesanal en Barcelona.
+
+Se pretende que el usuario final de la aplicación pueda obtener información y ubicación de los locales, restaurantes o bares que prodcen este tipo de cerveza, dandole un valor único a Barcelona.
+
+Se utilizará para este proyecto:
+
+<div align="center"> 
+<center> 
+<table border="0" cellpadding="0" cellspacing="0" width="600"> 
+<tr> 
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Yelp_Logo.svg/1200px-Yelp_Logo.svg.png" width="150"></td> 
+<td><img src="http://miriamposner.com/classes/dh101f16/wp-content/uploads/sites/5/2016/11/Python_logo.png" width="600"></td> 
+<td><img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB-Logo-5c3a7405a85675366beb3a5ec4c032348c390b3f142f5e6dddf1d78e2df5cb5c.png" width="600"></td> 
+<td> <FONT SIZE="3" color="Dark Blue"><B>Open Data Barcelona</B></FONT> </td>  
+</tr> 
+</table> 
+</center> 
+</div>
+  
+  
+En un futuro consideraremos otras fuentes de información.
+ 
+  
+  
+### Captura  y Almacenamiento de los Datos
+  
+  
+Se utilizó Python para realizar la captura de la información y su almacenamiento en MongoDB
+
+
+Se evalúa la calidad de la información y se realizó las transformaciones necesarias para luego trabajar con ella.
