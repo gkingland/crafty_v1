@@ -119,7 +119,7 @@ def buscar_barrios_pubs(barrio_id):
             return dumps(a)
 
 # Documentation
-@app.route('/docs')
+@app.route('/Crafty/V1.0/docs')
 def documentation():
     return auto.html()
 
